@@ -16,7 +16,7 @@ const Home = () => {
       <Canvas dpr={[1,2]} shadows camera={{fov:80}}> 
         <PresentationControls speed={1.5} global zoom={1} polar={[-0.1, Math.PI/4]}>
           <Stage environment={"warehouse"}>
-            <Model scale={0.01}/>
+            <Model scale={0.12}/>
           </Stage>
         </PresentationControls>
       </Canvas>
