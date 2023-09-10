@@ -1,6 +1,6 @@
 # Task Tracker
 
-A Python script and a counterpart React Web app to record time spent on each app, personalized to fit my needs. 
+A Python script and a counterpart React Web app to record time spent on each app, personalized to fit my needs. <br>
 This was made to bring awareness to how I manage my time. 🕒
 
 ### Use of ThreeJS, Framer Motion, and Tailwind CSS
